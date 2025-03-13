@@ -1,4 +1,4 @@
-/**
+
 Correto
 var x = 5;
 console.log(x);
@@ -87,8 +87,6 @@ function somaArray(numeros) {
 console.log(somaArray([1, 2, 3, 4]));
 
 _________________
-
-**/
 
 class Produto {
   constructor(nome, preco) {
